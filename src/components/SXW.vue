@@ -1,5 +1,5 @@
 <template>
-  <div>sxw</div>
+  <div>sxw.....\</div>
 </template>
 
 <script setup lang="ts"></script>
