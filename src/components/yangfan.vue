@@ -1,5 +1,5 @@
 <template>
-  <div>我是杨凡666</div>
+  <div>我是杨凡哈哈哈</div>
 </template>
 
 <script setup lang="ts"></script>
